@@ -1,0 +1,15 @@
+/Users/tess/Projects/Labb5/bin/Debug/net7.0/Labb5
+/Users/tess/Projects/Labb5/bin/Debug/net7.0/Labb5.deps.json
+/Users/tess/Projects/Labb5/bin/Debug/net7.0/Labb5.runtimeconfig.json
+/Users/tess/Projects/Labb5/bin/Debug/net7.0/Labb5.dll
+/Users/tess/Projects/Labb5/bin/Debug/net7.0/Labb5.pdb
+/Users/tess/Projects/Labb5/obj/Debug/net7.0/Labb5.csproj.AssemblyReference.cache
+/Users/tess/Projects/Labb5/obj/Debug/net7.0/Labb5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tess/Projects/Labb5/obj/Debug/net7.0/Labb5.AssemblyInfoInputs.cache
+/Users/tess/Projects/Labb5/obj/Debug/net7.0/Labb5.AssemblyInfo.cs
+/Users/tess/Projects/Labb5/obj/Debug/net7.0/Labb5.csproj.CoreCompileInputs.cache
+/Users/tess/Projects/Labb5/obj/Debug/net7.0/Labb5.dll
+/Users/tess/Projects/Labb5/obj/Debug/net7.0/refint/Labb5.dll
+/Users/tess/Projects/Labb5/obj/Debug/net7.0/Labb5.pdb
+/Users/tess/Projects/Labb5/obj/Debug/net7.0/Labb5.genruntimeconfig.cache
+/Users/tess/Projects/Labb5/obj/Debug/net7.0/ref/Labb5.dll
